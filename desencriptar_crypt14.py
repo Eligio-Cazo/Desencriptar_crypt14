@@ -62,5 +62,5 @@ def encrypt14(db_file, key_file, db_cript, output):
 
 if __name__ == "__main__":
     # encrypt14( "msgstore.db","key","msgstore.db.crypt14","msgstore1.db.crypt14")
-    decrypt14( "msgstore1.db.crypt14", "key","msgstore2.db")
+    decrypt14( "msgstore.db.crypt14", "key","msgstore.db")
     
