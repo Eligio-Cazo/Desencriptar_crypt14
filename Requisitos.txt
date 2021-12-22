@@ -1,0 +1,2 @@
+Requiere la libreria
+pycryptodome
